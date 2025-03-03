@@ -42,7 +42,3 @@ A basic calculator application built with React.js.
 ## Contributing
 
 Contributions are welcome!  Feel free to submit pull requests with bug fixes or enhancements.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). (Please note: this project will need a license file created)
